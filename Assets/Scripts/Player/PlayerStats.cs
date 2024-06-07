@@ -18,7 +18,7 @@ public class PlayerStats : MonoBehaviour
     public float currentSpeed;
     public int level;
     public int experienceCap;
-    private float healthLimit = 100;
+    private float healthLimit;
 
     public WeaponSO selectedWeapon;
     
@@ -43,6 +43,7 @@ public class PlayerStats : MonoBehaviour
         currentSpeed = playerSO.MoveSpeed;
         victories = playerSO.DefeatedEnemies;
         level = playerSO.Level;
+        healthLimit = playerSO.MaxHealth;
     }
 
     private void Start() 
