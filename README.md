@@ -1,8 +1,8 @@
-# WolfSurvivors
+# Wolf Survivors
 
 Game Description
 
-WolfSurvivors is a top-view shoot-em-up prototype game inspired by Vampire Survivors. Set in a dynamically generated infinite map, the game features Wolfie, a brave wolf who must battle waves of diverse enemies, each with unique characteristics and behaviors. As Wolfie, players navigate through an endless terrain, automatically attacking enemies to survive and progress.
+Wolf Survivors is a top-view shoot-em-up prototype game inspired by Vampire Survivors. Set in a dynamically generated infinite map, the game features Wolfie, a brave wolf who must battle waves of diverse enemies, each with unique characteristics and behaviors. As Wolfie, players navigate through an endless terrain, automatically attacking enemies to survive and progress.
 
 Features
 
@@ -19,7 +19,7 @@ Wolfie engages enemies automatically at set intervals, ensuring a smooth and uni
 
 Collision Detection
 
--The game features a precise collision detection system. Enemies take damage upon collision, contributing to a more realistic and engaging combat experience.
+- The game features a precise collision detection system. Enemies take damage upon collision, contributing to a more realistic and engaging combat experience.
 
 Rewards System
 
